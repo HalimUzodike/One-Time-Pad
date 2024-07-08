@@ -39,5 +39,3 @@ This project implements a secure communication system using the One-Time Pad enc
 - Ensures secure communication by validating input and using One-Time Pad encryption
 - Handles large messages (up to 800,000 characters)
 - Implements error handling and reporting
-
-This project demonstrates proficiency in C programming, network programming, process management, and cryptography concepts.
